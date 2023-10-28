@@ -1,7 +1,10 @@
 # History files
 .Rhistory
 .Rapp.history
-
+PX.RData
+data/
+github8_attempt2.Rproj
+scripts/
 # Session Data files
 .RData
 .RDataTmp
